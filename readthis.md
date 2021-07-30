@@ -2,6 +2,7 @@
 
 This is some text <br> 
 ``code here``
-``<div clas= top``>
+``<div clas= top>``
 <hr>
 Normal <mark>    Text Yellow  marked   </mark>
+Normal <B>    Text Bold   </B>
