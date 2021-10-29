@@ -1,4 +1,6 @@
 Ovo je primjer file 
 Test za repo!
 Nova linija da vidimo changes!
-jos jedna linija za Test
+jos jedna linija za Test.
+
+Ova linija je dodana na GH Editoru
