@@ -2,5 +2,5 @@ Ovo je primjer file
 Test za repo!
 Nova linija da vidimo changes!
 jos jedna linija za Test.
-
+Pressing the dot ( . ) key while browsing any repository on GitHub open GH editor
 Ova linija je dodana na GH Editoru
